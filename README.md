@@ -1,7 +1,7 @@
 # Roman Numerals Challenge
 
 ## Instructions
-1. Clone the repo.
+1. Clone the repo with `git clone https://github.com/howardreith/roman-numerals-challenge.git`
 1. Install dependencies with `npm install`
 1. Run tests with `npm test`
 4. Modify the convertArabicToRoman function in `workspace.js` such that is correctly converts Arabic numerals to Roman numerals and passes all tests.
